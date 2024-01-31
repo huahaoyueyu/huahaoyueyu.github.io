@@ -5,3 +5,11 @@
 <p>I'm hosted with GitHub Pages.</p>
 </body>
 </html>
+<!-- 其他内容... -->
+
+<!-- 新增链接的位置 -->
+<div style="text-align:center; margin-top:20px;"> <!-- 可以调整上边距来上移位置 -->
+  <a href="https://simhaoka.com/phone/index?id=0383E21B7D587CAE6056F9D3AD226362" target="_blank" style="color:red; font-size:18px; font-weight:bold;">点击访问特殊链接</a> <!-- 设置文字为红色，加粗，可以调整大小 -->
+</div>
+
+<!-- 其他内容... -->
